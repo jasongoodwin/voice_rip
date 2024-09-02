@@ -1,0 +1,7 @@
+openai-whisper==20230314
+torch==1.11.0
+torchaudio==0.11.0
+pydub==0.25.1
+PyAudio==0.2.13
+numpy>=1.21.0,<1.24.0
+speechbrain==0.5.12
