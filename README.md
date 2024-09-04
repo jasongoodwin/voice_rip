@@ -1,4 +1,4 @@
-# meeting_assistant
+# voice_rip (for use with assistant!)
 This is only the audio ripping portion of a meeting_assistant solution - pipe to an LLM and you can do some interesting things
 
 ## Setup
